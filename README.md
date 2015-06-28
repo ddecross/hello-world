@@ -1,7 +1,7 @@
 # hello-world
 ## I wanted to see what this level of text would look like
 ### I also wanted to see what this level of text would look like
-* allong with a 3 bullet list
+* along with a 3 bullet list
 * bullet 2
 * bullet 3
 This is my first GitHub Repo.  I am changing something in the origanal so I can see how the merge works.
